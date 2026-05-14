@@ -247,7 +247,6 @@ input[type="password"]:hover {
   width: 100%;
   background: none;
   border: none;
-  border-top: 1px solid var(--brfg);
   cursor: pointer;
   color: var(--brfg);
   font-size: 0.8rem;
@@ -258,7 +257,6 @@ input[type="password"]:hover {
 }
 
 .toggle-done-btn:hover {
-  border-top-color: var(--fg);
   color: var(--fg);
 }
 
