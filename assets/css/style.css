@@ -54,43 +54,43 @@
 }
 
 .icon-refresh {
-  mask-image: url('/assets/icons/arrows-rotate.svg');
+  mask-image: url('../icons/arrows-rotate.svg');
 }
 
 .icon-gear {
-  mask-image: url('/assets/icons/gear.svg');
+  mask-image: url('../icons/gear.svg');
 }
 
 .icon-plus {
-  mask-image: url('/assets/icons/plus.svg');
+  mask-image: url('../icons/plus.svg');
 }
 
 .icon-trash {
-  mask-image: url('/assets/icons/trash.svg');
+  mask-image: url('../icons/trash.svg');
 }
 
 .icon-xmark {
-  mask-image: url('/assets/icons/xmark.svg');
+  mask-image: url('../icons/xmark.svg');
 }
 
 .icon-copy {
-  mask-image: url('/assets/icons/copy.svg');
+  mask-image: url('../icons/copy.svg');
 }
 
 .icon-chevron-up {
-  mask-image: url('/assets/icons/chevron-up.svg');
+  mask-image: url('../icons/chevron-up.svg');
 }
 
 .icon-chevron-down {
-  mask-image: url('/assets/icons/chevron-down.svg');
+  mask-image: url('../icons/chevron-down.svg');
 }
 
 .icon-square {
-  mask-image: url('/assets/icons/square-regular.svg');
+  mask-image: url('../icons/square-regular.svg');
 }
 
 .icon-square-check {
-  mask-image: url('/assets/icons/square-check-regular.svg');
+  mask-image: url('../icons/square-check-regular.svg');
 }
 
 body {
